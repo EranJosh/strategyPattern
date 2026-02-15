@@ -1,7 +1,7 @@
 # strategyPattern
 Lab Assignment 1 : Strategy Pattern (Software Engineering 2)
 
-Problem Scenario:
+**Problem Scenario:**
 
 Suppose we have three types of characters in a GameApp:
 
